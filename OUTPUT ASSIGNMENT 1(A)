@@ -1,0 +1,10 @@
+Please enter the number of your items : 3
+Enter the price of your first item : 100
+Enter quantity of your first item : 3
+Enter the price of your second item : 100
+Enter quantity of your second item : 2
+Enter the price of your third item : 300
+Enter quantity of your third item : 1
+The total price : 800.0
+The discount received : 160.0
+The price to paid : 640.0
